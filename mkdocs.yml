@@ -30,5 +30,7 @@ nav:
                 - BASH: linux/bash.md
         - PYTHON:
                 - PIP: python/pip.md
+        - VIM:
+                - VIMRC: vim/vimrc.md
 theme:
         name: material
