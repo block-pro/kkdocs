@@ -9,6 +9,10 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
+## mkdocs materinal
+
+* <https://github.com/squidfunk/mkdocs-material>
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.

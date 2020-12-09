@@ -26,5 +26,9 @@ nav:
                 - RSA: php/rsa.md
         - BATTA: 
                 - BAOTA: tools/baota.md
-
-theme: readthedocs
+        - LINUX:
+                - BASH: linux/bash.md
+        - PYTHON:
+                - PIP: python/pip.md
+theme:
+        name: material
