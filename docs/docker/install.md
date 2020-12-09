@@ -1,4 +1,4 @@
-# docker install on centos7
+# docker install on centos7 or ubuntu
 
 ## Uninstall old versions
 
@@ -61,3 +61,4 @@ sudo systemctl enable docker
 ## reference
 
 * <https://docs.docker.com/engine/install/centos/>
+* <https://docs.docker.com/engine/install/ubuntu/>
