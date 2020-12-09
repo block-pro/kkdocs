@@ -1,0 +1,30 @@
+site_name: KK docs
+site_url: http://kkdocs.qiaokeke.top
+site_description: kk docs, cs, tools, etc
+site_author: kkqiao
+
+nav:
+        - Home: index.md
+        - PLAN:
+                - PLAN: plan/plan.md
+        - NETWORK: 
+                - IPTABLES: network/iptables.md
+                - SMB: network/samba.md
+                - CNETOS7-HOSTNAME: centos7/hostname.md
+        - N1:
+                - 单臂路由: n1/danbi.md
+        - DOCKER: 
+                - INSTALL: docker/install.md
+                - MYSQL: docker/mysql.md
+                - DOCKERFILE: docker/dockerfile-start.md
+        - KUBERNETES:
+                - INSTALL: kubernetes/install.md
+        - JAVA: 
+                - MAVEN: java/maven.md
+                - INSTALL: java/install.md
+        - PHP:
+                - RSA: php/rsa.md
+        - BATTA: 
+                - BAOTA: tools/baota.md
+
+theme: readthedocs
