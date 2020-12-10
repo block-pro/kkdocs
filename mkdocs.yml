@@ -22,6 +22,8 @@ nav:
         - JAVA: 
                 - MAVEN: java/maven.md
                 - INSTALL: java/install.md
+                - ROCKEMQ:
+			TRACE: java/rocketmq/trace.md
         - PHP:
                 - RSA: php/rsa.md
         - BATTA: 
