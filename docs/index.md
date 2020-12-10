@@ -13,6 +13,10 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 * <https://github.com/squidfunk/mkdocs-material>
 
+## source code
+
+* <https://github.com/qiaokeke/kkdocs>
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
