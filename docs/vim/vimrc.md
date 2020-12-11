@@ -12,6 +12,11 @@ nmap Q :q<CR>
 nmap W :w<CR>
 nmap X :x<CR>
 ```
+# caw加空格
+```bash
+# caw加上空格
+nnoremap caw caw<Space>
+```
 
 ### vim快速code
 

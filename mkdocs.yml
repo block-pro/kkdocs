@@ -23,6 +23,7 @@ nav:
                 - MAVEN: java/maven.md
                 - INSTALL: java/install.md
                 - ROCKEMQ:
+                    - INSTALL: java/rocketmq/install.md
                     - TRACE: java/rocketmq/trace.md
         - PHP:
                 - RSA: php/rsa.md
@@ -30,9 +31,11 @@ nav:
                 - BAOTA: tools/baota.md
         - LINUX:
                 - BASH: linux/bash.md
+                - USER: linux/user.md
         - PYTHON:
                 - PIP: python/pip.md
         - VIM:
                 - VIMRC: vim/vimrc.md
+                - VIM: vim/vim.md
 theme:
         name: material
