@@ -17,3 +17,17 @@
 
 * jsqlpraser的主要用法
 
+* metersphere研究及跟踪
+
+## 201221
+
+* funcking algorithm <https://github.com/labuladong/fucking-algorithm>
+
+
+## 210118
+
+* mount 开机启动
+* linux 磁盘管理 fdisk
+* linux 磁盘 lvm  
+* linux 添加用户
+* 参考linux就该这么学
