@@ -32,6 +32,7 @@ nav:
         - LINUX:
                 - BASH: linux/bash.md
                 - USER: linux/user.md
+                - IPTABLES: linux/iptables.md
         - PYTHON:
                 - PIP: python/pip.md
         - VIM:

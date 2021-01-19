@@ -31,6 +31,7 @@
 * linux 磁盘 lvm  
 * linux 添加用户
 * 参考linux就该这么学
+* 环境变量，公共的 /etc/profile
 
 ## 210119
 
