@@ -31,3 +31,10 @@
 * linux 磁盘 lvm  
 * linux 添加用户
 * 参考linux就该这么学
+
+## 210119
+
+* curl post
+```bash
+curl -X POST -d '{}' https://aa.com -v 
+```
