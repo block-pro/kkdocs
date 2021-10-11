@@ -7,6 +7,8 @@ nav:
   - Home: index.md
   - PLAN:
     - PLAN: plan/plan.md
+  - GCLOUD:
+    - INSTANCES: gcloud/instance.md
   - NETWORK: 
     - IPTABLES: network/iptables.md
     - SMB: network/samba.md
