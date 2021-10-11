@@ -9,6 +9,7 @@ nav:
       - Anaconda: tools/anaconda/anaconda.md
       - Mkdocs: tools/mkdocs/mkdocs.md
       - Syncthing: tools/syncthing/syncthing.md
+      - node: tools/node/node.md
   - PLAN:
       - PLAN: plan/plan.md
   - NETWORK:
