@@ -5,6 +5,11 @@ site_author: kkqiao
 
 nav:
   - Home: index.md
+  - Tools:
+      - Anaconda: tools/anaconda/anaconda.md
+      - Mkdocs: tools/mkdocs/mkdocs.md
+      - Syncthing: tools/syncthing/syncthing.md
+      - node: tools/node/node.md
   - PLAN:
     - PLAN: plan/plan.md
   - GCLOUD:
@@ -14,34 +19,34 @@ nav:
     - SMB: network/samba.md
     - CNETOS7-HOSTNAME: centos7/hostname.md
   - N1:
-    - 单臂路由: n1/danbi.md
-  - DOCKER: 
-    - INSTALL: docker/install.md
-    - MYSQL: docker/mysql.md
-    - DOCKERFILE: docker/dockerfile-start.md
+      - 单臂路由: n1/danbi.md
+  - DOCKER:
+      - INSTALL: docker/install.md
+      - MYSQL: docker/mysql.md
+      - DOCKERFILE: docker/dockerfile-start.md
   - KUBERNETES:
-    - INSTALL: kubernetes/install.md
-  - JAVA: 
-    - MAVEN: java/maven.md
-    - INSTALL: java/install.md
-    - ROCKEMQ:
-        - INSTALL: java/rocketmq/install.md
-        - TRACE: java/rocketmq/trace.md
+      - INSTALL: kubernetes/install.md
+  - JAVA:
+      - MAVEN: java/maven.md
+      - INSTALL: java/install.md
+      - ROCKEMQ:
+          - INSTALL: java/rocketmq/install.md
+          - TRACE: java/rocketmq/trace.md
   - PHP:
-    - RSA: php/rsa.md
-  - BATTA: 
-    - BAOTA: tools/baota.md
+      - RSA: php/rsa.md
+  - BATTA:
+      - BAOTA: tools/baota.md
   - LINUX:
-    - BASH: linux/bash.md
-    - USER: linux/user.md
-    - IPTABLES: linux/iptables.md
+      - BASH: linux/bash.md
+      - USER: linux/user.md
+      - IPTABLES: linux/iptables.md
   - OPENWRT:
-    - BUILD: openwrt/build.md
+      - BUILD: openwrt/build.md
   - PYTHON:
-    - PIP: python/pip.md
+      - PIP: python/pip.md
   - VIM:
-    - VIMRC: vim/vimrc.md
-    - VIM: vim/vim.md
- 
+      - VIMRC: vim/vimrc.md
+      - VIM: vim/vim.md
+
 theme:
   name: material
