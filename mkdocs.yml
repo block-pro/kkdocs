@@ -10,6 +10,7 @@ nav:
       - Mkdocs: tools/mkdocs/mkdocs.md
       - Syncthing: tools/syncthing/syncthing.md
       - node: tools/node/node.md
+      - Mi8_flash: tools/mi8/flash/flash.md
   - PLAN:
     - PLAN: plan/plan.md
   - GCLOUD:
