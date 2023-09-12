@@ -24,5 +24,5 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 ## github acitons
-* https://github.com/block-pro/mkdocs-deploy-gh-pages
+* <https://github.com/block-pro/mkdocs-deploy-gh-pages>
   
